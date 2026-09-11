@@ -1,6 +1,6 @@
 contact: micwu [at] umich [dot] edu
 
-math & cs @ umichn
+math & cs @ umich
 
 # projects
 - gmail CLI ui and AI features ([repo](https://github.com/wumich15/gmail-agent-cli))
