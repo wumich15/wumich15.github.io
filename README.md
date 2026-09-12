@@ -10,6 +10,7 @@ math & cs @ umich
 # interests
 - math
 - epidemiology
+- teaching
 - football
 - puzzles
 - jokes
