@@ -1,18 +1,19 @@
-contact: micwu [at] umich [dot] edu
+Contact: micwu [at] umich [dot] edu
 
-math & cs @ umich
+Math & CS @ UMich
 
-# projects
-- gmail CLI ui and AI features ([repo](https://github.com/wumich15/gmail-agent-cli))
-- dilemma (would you rather game): ([link](https://moral-dilemma-c8435.web.app/) [repo](https://github.com/wumich15/dilemmas))
-- minimalistic study app: ([link](https://mist-86d38.web.app/), repo is private & co-developed with [this guy](https://github.com/9akrrts9-code))
+# Projects
+- Gmail CLI UI and AI features ([repo](https://github.com/wumich15/gmail-agent-cli))
+- Dilemma (would you rather game): ([link](https://moral-dilemma-c8435.web.app/) [repo](https://github.com/wumich15/dilemmas))
+- Minimalistic Study App: ([link](https://mist-86d38.web.app/), repo is private & co-developed with [this person](https://github.com/9akrrts9-code))
+- Trading Algorithms on Kalshi / Polymarket (private repo & codeveloped with [this person](https://github.com/asdfasdasd314))
 
-# interests
-- math
-- epidemiology
-- teaching
-- football
-- puzzles
-- jokes
-- driving
-- friends
+# Interests
+- Math
+- Epidemiology
+- Teaching
+- Football
+- Puzzles
+- Jokes
+- Driving
+- Friends
