@@ -9,8 +9,10 @@ math & cs @ umich
 - scrapsaver ([link](https://scrapsaver.app) [repo](https://github.com/Shaan-Barai/MHacks_Barai_Chauhan_Wu_Tompkins) [demo](https://www.youtube.com/watch?v=wqknvAncErI))
 - gmail cli ([repo](https://github.com/wumich15/gmail-agent-cli))
 - dilemma ([link](https://moral-dilemma-c8435.web.app/) [repo](https://github.com/wumich15/dilemmas))
-- mist ([link](https://mist-86d38.web.app/), repo is private & co-developed with [this person](https://github.com/9akrrts9-code))
-- trading algorithms (private repo & codeveloped with [this person](https://github.com/asdfasdasd314))
+- mist ([link](https://mist-86d38.web.app/)
+- intuition (RAG for math olympiad prep)
+- basket (in stealth)
+- trading algorithms
 
 # interests
 - math
